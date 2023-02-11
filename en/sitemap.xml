@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahulwaykos.site/categories/</loc>
+    <loc>https://rahulwaykos.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rahulwaykos.site/fr/categories/"
+                href="https://rahulwaykos.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rahulwaykos.site/categories/"
+                href="https://rahulwaykos.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://rahulwaykos.site/</loc>
+    <loc>https://rahulwaykos.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rahulwaykos.site/fr/"
+                href="https://rahulwaykos.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rahulwaykos.site/"
+                href="https://rahulwaykos.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://rahulwaykos.site/tags/</loc>
+    <loc>https://rahulwaykos.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rahulwaykos.site/fr/tags/"
+                href="https://rahulwaykos.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rahulwaykos.site/tags/"
+                href="https://rahulwaykos.github.io/tags/"
                 />
   </url>
   
